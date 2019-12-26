@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">proyek besar</string>
+    <string-array name="kejadian_array">
+        <item>Gempa kota 1</item>
+        <item>TSunami kota 2</item>
+    </string-array>
+    <string name="title_activity_home_nav">HomeNav</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="title_activity_nav_bar">NavBar</string>
+    <string name="subkon">Jenis Triase</string>
+    <string name="subkon2">Prosedur</string>
+    <string name="kon2">Prosedur dimulai ketika tenaga medis menangani banyak korban, kemudian tenaga medis melakukan tindakan triase kepada korban-korban dan
+    memberikan pita triase. setelah itu dokter akan menangani korban sesuai dengan tingkat kegawadarutannya</string>
+    <string name="konten">
+
+<p>Dalam sistem triase, ada 5 kategori warna. Empat kategori warna tersebut memiliki arti masing-masing yang disesuaikan dengan kondisi Korban, yaitu:
+1. Kategori merah
+
+Pasien dengan kategori merah adalah korban prioritas pertama (area resusitasi) yang butuh pertolongan segera. Kriteria korban yang masuk dalam kategori ini adalah mengalami kondisi kritis yang membutuhkan pertolongan medis segera.
+2. Kategori kuning
+
+Pasien dalam kategori kuning merupakan prioritas kedua (area tindakan) yang juga membutuhkan pertolongan segera. Hanya saja, korban yang termasuk kategori ini tidak dalam kondisi kritis.
+3. Kategori hijau
+
+Kategori ini termasuk dalam prioritas ketiga (area observasi). Korban dalam kategori ini umumnya mengalami cedera ringan dan biasanya masih mampu berjalan atau mencari pertolongan sendiri.
+4. Kategori hitam
+
+Kategori hitam hanya diperuntukkan bagi korban yang sudah tidak mungkin ditolong lagi atau sudah meninggal.
+Prosedur Triase Pasien
+        5. Kategori Putih
+        Kategori putih buat yang tidak mengalami cedera yang serius di bandingkan yang hijau, korban dapat berjalan ata mengatasi dirinya sendiri</p>
+</string>
+</resources>

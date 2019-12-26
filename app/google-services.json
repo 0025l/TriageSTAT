@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "660285028704",
+    "firebase_url": "https://proyek-besar-fa7f0.firebaseio.com",
+    "project_id": "proyek-besar-fa7f0",
+    "storage_bucket": "proyek-besar-fa7f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660285028704:android:7bd2ba731e54a5864a4605",
+        "android_client_info": {
+          "package_name": "com.example.proyekbesar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660285028704-6ng7sudjjhqnvikrb6242c8qk4k1j423.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyekbesar",
+            "certificate_hash": "4e934062aee26041c552821459e14d461ccaa899"
+          }
+        },
+        {
+          "client_id": "660285028704-ele7v7bfmv8v5nfl52vus56cpq5neb38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBifKtkwZdTldLCw6o7oEPVYPaI0cOhTrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660285028704-ele7v7bfmv8v5nfl52vus56cpq5neb38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

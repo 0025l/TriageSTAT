@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.proyekbesar">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Tentang"></activity>
+        <activity android:name=".Alur" />
+        <activity android:name=".Panduan" /> <!-- <activity -->
+        <!-- android:name=".NavBar" -->
+        <!-- android:label="@string/title_activity_nav_bar"></activity> -->
+        <!-- <activity -->
+        <!-- android:name=".Navigations" -->
+        <!-- android:label="@string/title_activity_navigation"></activity> -->
+        <activity android:name=".ui.home.HomeFragment" />
+        <activity android:name=".HomeActivityMedis" />
+        <activity android:name=".editDataKorban" />
+        <activity android:name=".dataKorban" />
+        <activity android:name=".loginActivity" />
+        <activity android:name=".PerintahSederhanaActivity" />
+        <activity android:name=".BebaskanPernapasanActivity" />
+        <activity android:name=".KategoriLukaActivity" />
+        <activity android:name=".Pertanyaan9Activity" />
+        <activity android:name=".Pertanyaan8Activity" />
+        <activity android:name=".Pertanyaan7Activity" />
+        <activity android:name=".Pertanyaan6Activity" />
+        <activity android:name=".Pertanyaan5Activity" />
+        <activity android:name=".Pertanyaan4Activity" />
+        <activity android:name=".TriaseHitamActivity" />
+        <activity android:name=".TriaseMerahActivity" />
+        <activity android:name=".TriaseKuningActivity" />
+        <activity android:name=".TriasePutihActivity" />
+        <activity android:name=".Pertanyaan3Activity" />
+        <activity android:name=".TriaseHijauActivity" />
+        <activity android:name=".Pertanyaan2Activity" />
+        <activity android:name=".pertanyaan1Activity" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

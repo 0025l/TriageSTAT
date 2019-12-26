@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+
+    android:layout_gravity="center_horizontal"
+
+    android:gravity="center_horizontal"
+
+    android:orientation="vertical"
+
+    android:padding="10dp">
+
+
+    <TextView
+
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+
+        android:layout_margin="5dp"
+
+        android:text="Tambah Variabel Berjalan" />
+
+
+    <EditText
+
+        android:id="@+id/aturan"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:hint="kondisi aturan korban"
+
+        android:inputType="text" />
+    <EditText
+
+        android:id="@+id/luka"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:hint="kondisi luka korban"
+
+        android:inputType="text" />
+    <EditText
+
+        android:id="@+id/pernapasan"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:hint="kondisi pernapasan korban"
+
+        android:inputType="text" />
+    <EditText
+
+        android:id="@+id/crt"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:hint="kondisi CRT korban"
+
+        android:inputType="text" />
+    <EditText
+
+        android:id="@+id/mental"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:hint="kondisi kesadaran korban"
+
+        android:inputType="text" />
+    <EditText
+
+        android:id="@+id/triase"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:hint="warna triase"
+
+        android:inputType="text" />
+
+
+
+    <Button
+
+        android:id="@+id/bt_submit1"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:text="Tambah" />
+
+</LinearLayout>
